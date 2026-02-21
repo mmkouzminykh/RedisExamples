@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="InstanceTwo/InstanceTwo.csproj" />
+  <Project Path="RedisExamples/RedisExamples.csproj" />
+</Solution>
